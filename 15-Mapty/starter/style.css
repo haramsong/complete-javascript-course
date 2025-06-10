@@ -113,6 +113,24 @@ a:visited {
   font-weight: 800;
 }
 
+.workout__button-container {
+  position: absolute;
+  left: 400px;
+  justify-content: 'right';
+}
+
+.workout__edit--button {
+  background: inherit;
+  width: 30px;
+  height: 30px;
+}
+
+.workout__delete--button {
+  background: inherit;
+  width: 30px;
+  height: 30px;
+}
+
 .form {
   background-color: var(--color-dark--2);
   border-radius: 5px;
